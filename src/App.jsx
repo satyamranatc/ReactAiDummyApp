@@ -16,7 +16,7 @@ export default function App() {
     <div>
 
         <center>
-          <h1>The Ai chat App</h1>
+          <h1>The Groq Ai Chat App with React</h1>
 
           <div id="Form">
             <form onSubmit={handleAi}>
